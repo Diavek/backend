@@ -1,0 +1,22 @@
+{
+  "name": "astrolabsapp",
+  "version": "1.0.0",
+  "description": "astrolabs app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Dany",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
